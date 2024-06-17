@@ -1,0 +1,5 @@
+Event Name: Awesome Event
+Date: 2023-07-15
+Time: 10:00 AM - 4:00 PM
+Location: Example Venue, Example Street, Example City
+Description: Join us for an amazing event filled with fun activities, guest speakers, and more!
